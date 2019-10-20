@@ -8,5 +8,6 @@ Download the training version of 1C:Enterprise 8 platform
 ### Installing
 Choose your folder and select English language
 ## Running the tests
+After you complete the install, run the 1C app and the screen will appear like this.
+![1c1](https://user-images.githubusercontent.com/24667111/67156571-78b88980-f34a-11e9-90fc-8c79c7e14cf9.png)
 
-Explain how to run the automated tests for this system
