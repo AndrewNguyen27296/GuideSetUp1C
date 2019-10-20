@@ -14,7 +14,13 @@ After you complete the install, run the 1C app and the screen will appear like t
 ## Deployment
 Add additional notes about how to deploy this on a live system
 1. Click on "Designer" button
-The structure of the system
-2. Click on "Debugging" button
-Client interface for testing or customer use
+![1c3](https://user-images.githubusercontent.com/24667111/67156662-dac5be80-f34b-11e9-9a16-95d9a1b00a29.png)
 
+The structure of the system
+![1c4](https://user-images.githubusercontent.com/24667111/67156663-dd281880-f34b-11e9-8a27-2f233ef75010.png)
+
+2. Click on "Debugging" button
+![1c5](https://user-images.githubusercontent.com/24667111/67156664-def1dc00-f34b-11e9-97dd-a4b6aff5f5fc.png)
+
+Client interface for testing or customer use
+![1c6](https://user-images.githubusercontent.com/24667111/67156667-e31df980-f34b-11e9-9d95-64a3a56d2ec0.png)
